@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Desktop\\BMTP-LAB7-Fedotov\\prj\\Fedotov-task_7_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD1BB58-D313-40AB-9CF3-1DE71B3ADBBC}|Fedotov-task_7_2\\Fedotov-task_7_2.vcxproj|C:\\Users\\andre\\Desktop\\BMTP-LAB7-Fedotov\\prj\\Fedotov-task_7_2\\Fedotov-task_7_2\\Fedotov-task_7_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9BD1BB58-D313-40AB-9CF3-1DE71B3ADBBC}|Fedotov-task_7_2\\Fedotov-task_7_2.vcxproj|solutionrelative:Fedotov-task_7_2\\Fedotov-task_7_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fedotov-task_7_2.cpp",
+              "DocumentMoniker": "C:\\Users\\andre\\Desktop\\BMTP-LAB7-Fedotov\\prj\\Fedotov-task_7_2\\Fedotov-task_7_2\\Fedotov-task_7_2.cpp",
+              "RelativeDocumentMoniker": "Fedotov-task_7_2\\Fedotov-task_7_2.cpp",
+              "ToolTip": "C:\\Users\\andre\\Desktop\\BMTP-LAB7-Fedotov\\prj\\Fedotov-task_7_2\\Fedotov-task_7_2\\Fedotov-task_7_2.cpp",
+              "RelativeToolTip": "Fedotov-task_7_2\\Fedotov-task_7_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T22:14:08.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
