@@ -7,7 +7,6 @@ int main() {
     SetConsoleOutputCP(1251);
     SetConsoleCP(65001);
     SetConsoleCP(1251);
-    ////////////////////////
     string answer;
     do
     {
